@@ -1,4 +1,4 @@
-
+#!/usr/local/bin/python3
 from random import seed
 from random import randrange
  
